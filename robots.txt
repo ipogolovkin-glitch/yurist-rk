@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ipogolovkin-glitch.github.io/yurist-rk/sitemap.xml
